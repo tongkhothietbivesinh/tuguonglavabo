@@ -17,11 +17,6 @@
         <b>Tủ gương lavabo KB03</b>
       <b>6.200.000đ</b>
     </td>
-    <td align="center">
-        <img alt="Tủ gương lavabo KB04" src="./images/tuguonglavabo14.jpg" width="200"><br>
-        <b>Tủ gương lavabo KB04</b>
-      <b>7.200.000đ</b>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -37,6 +32,13 @@
     <td align="center">
         <img alt="Tủ gương lavabo KB07" src="./images/tuguonglavabo17.jpg" width="200"><br>
         <b>Tủ gương lavabo KB07</b>
+      <b>7.200.000đ</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <img alt="Tủ gương lavabo KB04" src="./images/tuguonglavabo14.jpg" width="200"><br>
+        <b>Tủ gương lavabo KB04</b>
       <b>7.200.000đ</b>
     </td>
     <td align="center">
